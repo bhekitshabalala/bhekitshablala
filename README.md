@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm Bheki Tshabalala
 
 I'm a junior web developer from South Africa with a diploma in System Development.  
-I build modern web applications using PHP, JavaScript, MySQL, HTML, and CSS.
+I build modern web applications using PHP, JavaScript, Java, MySQL, HTML, and CSS.
 
 ### 🛠️ Skills
-- PHP • JavaScript • MySQL
+- PHP • JavaScript • MySQL & Java
 - HTML • CSS • Git & GitHub
 
 ### 📂 Projects
